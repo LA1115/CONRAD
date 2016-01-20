@@ -194,7 +194,7 @@ public class MotionCompensatedRecon{
 		
 		return preProjGrid;
 	}
-	
+	/proj/i9cg/
 	/**
 	 * ConeBeamReconstruction Method using ConeBeamBackprojector from Tutorial Code
 	 * including: ConeBeamCosineFilter, Parker Weights and RamLakFilter
